@@ -58,3 +58,4 @@ On AIMT15, EIMT16 and VideoEmotion, comparisons of the proposed AFRN-LSTM with o
 Please cite the following paper if you use this code:
 
 Yun Yi, Hanli Wang and Qinyu Li, Affective Video Content Analysis with Adaptive Fusion Recurrent Network, IEEE Transactions on Multimedia, vol. 22, no. 9, pp. 2454-2466, Sept. 2020. 
+
